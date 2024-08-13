@@ -6,7 +6,7 @@ data class Profile(
     val hobby: List<String> = listOf("game", "anime", "rock/punk music"),
     val bio: String = "Learning software engineering. I like Python best, not Java.",
     val contact: Map<String, String> = mapOf(
-        "Email" to "me@dianas.cyou",
+        "Email" to "changrenyuan@126.com",
         "Blog" to "https://blog.dianas.cyou](https://www.cnblogs.com/changryJB",
         "Keybase" to "https://keybase.io/changrenyuan",
         "Issue" to "https://github.com/changrenyuan/changrenyuan/issues",
